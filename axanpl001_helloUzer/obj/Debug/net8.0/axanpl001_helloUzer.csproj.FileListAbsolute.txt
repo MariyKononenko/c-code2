@@ -1,0 +1,14 @@
+C:\Users\79117\OneDrive\Рабочий стол\axamples\axanpl001_helloUzer\bin\Debug\net8.0\axanpl001_helloUzer.exe
+C:\Users\79117\OneDrive\Рабочий стол\axamples\axanpl001_helloUzer\bin\Debug\net8.0\axanpl001_helloUzer.deps.json
+C:\Users\79117\OneDrive\Рабочий стол\axamples\axanpl001_helloUzer\bin\Debug\net8.0\axanpl001_helloUzer.runtimeconfig.json
+C:\Users\79117\OneDrive\Рабочий стол\axamples\axanpl001_helloUzer\bin\Debug\net8.0\axanpl001_helloUzer.dll
+C:\Users\79117\OneDrive\Рабочий стол\axamples\axanpl001_helloUzer\bin\Debug\net8.0\axanpl001_helloUzer.pdb
+C:\Users\79117\OneDrive\Рабочий стол\axamples\axanpl001_helloUzer\obj\Debug\net8.0\axanpl001_helloUzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79117\OneDrive\Рабочий стол\axamples\axanpl001_helloUzer\obj\Debug\net8.0\axanpl001_helloUzer.AssemblyInfoInputs.cache
+C:\Users\79117\OneDrive\Рабочий стол\axamples\axanpl001_helloUzer\obj\Debug\net8.0\axanpl001_helloUzer.AssemblyInfo.cs
+C:\Users\79117\OneDrive\Рабочий стол\axamples\axanpl001_helloUzer\obj\Debug\net8.0\axanpl001_helloUzer.csproj.CoreCompileInputs.cache
+C:\Users\79117\OneDrive\Рабочий стол\axamples\axanpl001_helloUzer\obj\Debug\net8.0\axanpl001_helloUzer.dll
+C:\Users\79117\OneDrive\Рабочий стол\axamples\axanpl001_helloUzer\obj\Debug\net8.0\refint\axanpl001_helloUzer.dll
+C:\Users\79117\OneDrive\Рабочий стол\axamples\axanpl001_helloUzer\obj\Debug\net8.0\axanpl001_helloUzer.pdb
+C:\Users\79117\OneDrive\Рабочий стол\axamples\axanpl001_helloUzer\obj\Debug\net8.0\axanpl001_helloUzer.genruntimeconfig.cache
+C:\Users\79117\OneDrive\Рабочий стол\axamples\axanpl001_helloUzer\obj\Debug\net8.0\ref\axanpl001_helloUzer.dll
